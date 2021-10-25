@@ -1,5 +1,5 @@
 # Netflix Clone
-
+This is a simple Netflix clone that I built using React-Native and Expo.
 <div align="center">
   <a href="https://youtu.be/oc6iRxhZgeY"><img src="Netflix_Clone_GH.png" width="350" title="Netflix Clone Demo"></a>
   <p>^ Click to see demo ^</p>
